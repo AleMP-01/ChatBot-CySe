@@ -1,6 +1,6 @@
 # ChatBot-CySe
 
-## Curso de Inteligência Artificial - Alura-Google
+## Curso de Imersão de Inteligência Artificial - Alura-Google
 
 
 CySe é um chatbot inovador criado para capacitar idosos e usuários com pouca experiência em tecnologia a se defenderem no ambiente digital. Este sistema interativo foi cuidadosamente projetado para simplificar os conceitos de Cyber Segurança, muitas vezes complexos, e apresentá-los de forma clara e compreensível.
